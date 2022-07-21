@@ -35,3 +35,5 @@ function palindromo (f){
  poli
 
  //ejercicio 3
+
+    
