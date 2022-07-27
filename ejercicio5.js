@@ -2,9 +2,10 @@
 const porcentaje = (porcentaje , numero) => {
    
     var operador =(porcentaje % numero)
-  
+  //var  operacion = (numero *(porcentaje/100))
+  // let resultado 
    
-   return `el  ${porcentaje } porciento de ${numero} es ${operador}`
+   return `el  ${porcentaje } %   de ${numero} es ${operador}`
 
 
 
